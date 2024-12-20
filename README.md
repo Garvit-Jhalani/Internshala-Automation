@@ -1,6 +1,4 @@
-Here’s a sample `README.md` file structure for your **Internshala Automation** project using **Puppeteer**.
 
-````markdown
 # Internshala Automation
 
 A backend project that automates interactions with the [Internshala](https://internshala.com/) website using Puppeteer. This project enables automated login, job/internship searches, and data extraction, making it easier to manage tasks on Internshala through an automated backend service.
